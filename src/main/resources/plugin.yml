@@ -1,0 +1,12 @@
+name: TerrorManager
+main: kr.mocha.TerrorManager
+author: mocha
+version: 1.0-SNAPSHOT
+description: "테러를 방지합니다."
+api: [1.0.0]
+
+permissions : 
+ banMessage.cmd :
+  default : OP
+ banItem.cmd :
+  default : OP
